@@ -1,0 +1,22 @@
+print("Hello World!!!")
+
+a = 10+5
+
+print(a)
+
+
+fdkjhflkahflkhfds
+fdföhlkasfkjhfkdsaf
+
+
+kldjflkjdfjfldkj
+fkljdfjlks
+
+
+gfjlgkjdsglkdjgjdlgkjöKIK
+
+KIKIKI
+git
+
+
+hahahahah
